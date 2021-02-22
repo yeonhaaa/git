@@ -2,19 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="922aa13a-bc49-4392-a05a-b1e7b3ea112a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/14_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_float.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_str_float.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_for_ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_for_ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/34_test_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/35_crawl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/36_crawl_parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/37_naver_finance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_variable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_constant.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_constant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_var_con.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_var_con.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_var_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_var_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_variable_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/13_variable_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/21_print_gugudan.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/21_print_gugudan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/22_gugudan_parameter.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/22_gugudan_parameter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/23_return.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/23_return.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/24_return_four_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/24_return_four_operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/25_g_o_f.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/25_g_o_f.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/26_g_o_f_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/26_g_o_f_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/27_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/27_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/28_list_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/28_list_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/29_list_append.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/29_list_append.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/30_salary_list_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/30_salary_list_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/31_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/31_dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/32_dict_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/32_dict_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/33_dict_list_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/33_dict_list_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/34_list_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/34_list_for.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +46,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/practice" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.20_format">
-    <configuration name="16_str_float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.37_naver_finance">
+    <configuration name="34_list_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_str_float.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/34_list_for.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="34_test_lib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/34_test_lib.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18_for_ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="35_crawl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_for_ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/35_crawl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19_for_ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="36_crawl_parse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19_for_ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/36_crawl_parse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20_format" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="37_naver_finance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20_format.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/37_naver_finance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.20_format" />
-        <item itemvalue="Python.19_for_ex2" />
-        <item itemvalue="Python.18_for_ex1" />
-        <item itemvalue="Python.17_for" />
-        <item itemvalue="Python.16_str_float" />
+        <item itemvalue="Python.37_naver_finance" />
+        <item itemvalue="Python.36_crawl_parse" />
+        <item itemvalue="Python.35_crawl" />
+        <item itemvalue="Python.34_test_lib" />
+        <item itemvalue="Python.34_list_for" />
       </list>
     </recent_temporary>
   </component>
@@ -172,29 +185,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1409" height="186" key="GridCell.Tab.0.bottom" timestamp="1613062351291">
+    <state width="1409" height="219" key="GridCell.Tab.0.bottom" timestamp="1613998913629">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1409" height="186" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613062351291" />
+    <state width="1409" height="219" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613998913629" />
     <state width="1409" height="186" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1613057105120" />
-    <state width="1409" height="186" key="GridCell.Tab.0.center" timestamp="1613062351290">
+    <state width="1409" height="219" key="GridCell.Tab.0.center" timestamp="1613998913627">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1409" height="186" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613062351290" />
+    <state width="1409" height="219" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613998913627" />
     <state width="1409" height="186" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1613057105119" />
-    <state width="1409" height="186" key="GridCell.Tab.0.left" timestamp="1613062351289">
+    <state width="1409" height="219" key="GridCell.Tab.0.left" timestamp="1613998913626">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1409" height="186" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613062351289" />
+    <state width="1409" height="219" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613998913626" />
     <state width="1409" height="186" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1613057105119" />
-    <state width="1409" height="186" key="GridCell.Tab.0.right" timestamp="1613062351290">
+    <state width="1409" height="219" key="GridCell.Tab.0.right" timestamp="1613998913628">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1409" height="186" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613062351290" />
+    <state width="1409" height="219" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613998913628" />
     <state width="1409" height="186" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1613057105120" />
+    <state x="1" y="0" key="SettingsEditor" timestamp="1613992020904">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="1" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1613992020904" />
     <state x="0" y="0" width="836" height="900" key="find.popup" timestamp="1613051417995">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="0" width="836" height="900" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1613051417995" />
+    <state x="217" y="0" width="1005" height="1466" key="search.everywhere.popup" timestamp="1613109887174">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="217" y="0" width="1005" height="1466" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1613109887174" />
   </component>
 </project>
