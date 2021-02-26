@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="922aa13a-bc49-4392-a05a-b1e7b3ea112a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/34_test_lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/35_crawl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/36_crawl_parse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/37_naver_finance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/38_naver_shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/39_naver_shopping_n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/40_naver_shopping_for.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/21_print_gugudan.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/21_print_gugudan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/22_gugudan_parameter.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/22_gugudan_parameter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/23_return.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/23_return.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/24_return_four_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/24_return_four_operation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/25_g_o_f.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/25_g_o_f.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/26_g_o_f_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/26_g_o_f_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/27_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/27_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/28_list_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/28_list_for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/29_list_append.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/29_list_append.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/30_salary_list_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/30_salary_list_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/31_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/31_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/32_dict_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/32_dict_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/33_dict_list_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/33_dict_list_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/34_list_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/34_list_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/34_test_lib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/37_naver_finance.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/37_naver_finance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +41,11 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/practice" />
+      <recent name="$PROJECT_DIR$/practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.37_naver_finance">
-    <configuration name="34_list_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.40_naver_shopping_for">
+    <configuration name="28_list_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,70 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/34_list_for.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="34_test_lib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/34_test_lib.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="35_crawl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/35_crawl.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="36_crawl_parse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/36_crawl_parse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/28_list_for.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,13 +87,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="38_naver_shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/38_naver_shopping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="39_naver_shopping_n" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/39_naver_shopping_n.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="40_naver_shopping_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/40_naver_shopping_for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.40_naver_shopping_for" />
+        <item itemvalue="Python.39_naver_shopping_n" />
+        <item itemvalue="Python.28_list_for" />
+        <item itemvalue="Python.38_naver_shopping" />
         <item itemvalue="Python.37_naver_finance" />
-        <item itemvalue="Python.36_crawl_parse" />
-        <item itemvalue="Python.35_crawl" />
-        <item itemvalue="Python.34_test_lib" />
-        <item itemvalue="Python.34_list_for" />
       </list>
     </recent_temporary>
   </component>
@@ -185,26 +174,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1409" height="219" key="GridCell.Tab.0.bottom" timestamp="1613998913629">
+    <state width="1409" height="182" key="GridCell.Tab.0.bottom" timestamp="1614317876440">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1409" height="219" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613998913629" />
+    <state width="1409" height="182" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614317876440" />
     <state width="1409" height="186" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1613057105120" />
-    <state width="1409" height="219" key="GridCell.Tab.0.center" timestamp="1613998913627">
+    <state width="1409" height="219" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1614168488156" />
+    <state width="1409" height="182" key="GridCell.Tab.0.center" timestamp="1614317876438">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1409" height="219" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613998913627" />
+    <state width="1409" height="182" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614317876438" />
     <state width="1409" height="186" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1613057105119" />
-    <state width="1409" height="219" key="GridCell.Tab.0.left" timestamp="1613998913626">
+    <state width="1409" height="219" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1614168488154" />
+    <state width="1409" height="182" key="GridCell.Tab.0.left" timestamp="1614317876437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1409" height="219" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613998913626" />
+    <state width="1409" height="182" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614317876437" />
     <state width="1409" height="186" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1613057105119" />
-    <state width="1409" height="219" key="GridCell.Tab.0.right" timestamp="1613998913628">
+    <state width="1409" height="219" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1614168488154" />
+    <state width="1409" height="182" key="GridCell.Tab.0.right" timestamp="1614317876439">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1409" height="219" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613998913628" />
+    <state width="1409" height="182" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614317876439" />
     <state width="1409" height="186" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1613057105120" />
+    <state width="1409" height="219" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1614168488155" />
     <state x="1" y="0" key="SettingsEditor" timestamp="1613992020904">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
